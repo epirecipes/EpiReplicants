@@ -5,9 +5,9 @@
 1. To demonstrate the ability (or lack thereof) to replicate/reproduce results, which is important for trust in these models and their applications.
 2. To highlight the capability of Julia as a language for epidemiological modeling, and to identify gaps in the current ecosystem.
 3. As a testbed for the use of large language models to perform the following transformations:
-   - Publication \leftarrow equations
-   - Publication \leftarrow pseudocode
-   - Publication \leftarrow code
+   - Publication &rarr equations
+   - Publication &rarr pseudocode
+   - Publication &rarr code
    - Code (e.g. in R) to code in Julia
 
 ## List of replicants
