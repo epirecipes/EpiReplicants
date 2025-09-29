@@ -18,4 +18,4 @@
 - Written as a Quarto document
 - In a subdirectory with its own environment
 - Preferably based on an open publication where the code is available under a permissive license
-- Where artificial intelligence has been used, the prompts and local setup (e.g. GitHub Copilot + VS COde + GPT-5) should be described.
+- Where artificial intelligence has been used, the prompts and local setup (e.g. GitHub Copilot + VS Code + GPT-5) should be described.
